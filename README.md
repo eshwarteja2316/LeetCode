@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0739-daily-temperatures](https://github.com/eshwarteja2316/LeetCode/tree/master/0739-daily-temperatures) |
+| [1480-running-sum-of-1d-array](https://github.com/eshwarteja2316/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/eshwarteja2316/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/eshwarteja2316/LeetCode/tree/master/1929-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/eshwarteja2316/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
