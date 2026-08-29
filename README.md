@@ -214,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/eshwarteja2316/LeetCode/tree/master/0566-reshape-the-matrix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/eshwarteja2316/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
