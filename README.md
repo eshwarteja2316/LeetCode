@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/eshwarteja2316/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/eshwarteja2316/LeetCode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshwarteja2316/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/eshwarteja2316/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/eshwarteja2316/LeetCode/tree/master/0283-move-zeroes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/eshwarteja2316/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/eshwarteja2316/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/eshwarteja2316/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/eshwarteja2316/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/eshwarteja2316/LeetCode/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/eshwarteja2316/LeetCode/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eshwarteja2316/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/eshwarteja2316/LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/eshwarteja2316/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/eshwarteja2316/LeetCode/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/eshwarteja2316/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarteja2316/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/eshwarteja2316/LeetCode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eshwarteja2316/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/eshwarteja2316/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3467-transform-array-by-parity](https://github.com/eshwarteja2316/LeetCode/tree/master/3467-transform-array-by-parity) |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/eshwarteja2316/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/eshwarteja2316/LeetCode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/eshwarteja2316/LeetCode/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -283,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/eshwarteja2316/LeetCode/tree/master/0155-min-stack) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/eshwarteja2316/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
