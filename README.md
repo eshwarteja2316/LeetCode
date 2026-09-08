@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/eshwarteja2316/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/eshwarteja2316/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/eshwarteja2316/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eshwarteja2316/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/eshwarteja2316/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/eshwarteja2316/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/eshwarteja2316/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshwarteja2316/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eshwarteja2316/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/eshwarteja2316/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/eshwarteja2316/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/eshwarteja2316/LeetCode/tree/master/3870-count-commas-in-range) |
