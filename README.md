@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/eshwarteja2316/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/eshwarteja2316/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eshwarteja2316/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1367-linked-list-in-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/eshwarteja2316/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -254,12 +255,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/eshwarteja2316/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshwarteja2316/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/eshwarteja2316/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshwarteja2316/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/eshwarteja2316/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshwarteja2316/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
