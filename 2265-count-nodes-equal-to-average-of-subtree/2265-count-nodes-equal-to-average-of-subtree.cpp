@@ -10,36 +10,27 @@
  * };
  */
 class Solution {
-public:
-    bool isok(TreeNode*root){
-        queue<TreeNode*>q;
-        q.push(root);
-        int sum=0,count=0;
-        while(!q.empty()){
-            TreeNode*temp=q.front();
-            q.pop();
-            count++;
-            sum+=temp->val;
-            if(temp->right){
-                q.push(temp->right);
-            } 
-             if(temp->left){
-                q.push(temp->left);
-            } 
+public: 
+    int sums(TreeNode*root,int&sum,int&count){
+        if(root==NULL){
+            return 0;
         }
-        int avg=sum/count;
-        if(root->val==avg)return true;
-        return false;
+        count++;
+        sum+=root->val;
+        sums(root->right,sum,count);
+        sums(root->left,sum,count);
+        return sum/count;
     }
-
     int averageOfSubtree(TreeNode* root) {
-          queue<TreeNode*>q;
+        queue<TreeNode*>q;
         q.push(root);
         int count=0;
         while(!q.empty()){
             TreeNode*temp=q.front();
             q.pop();
-            if(isok(temp))
+            int sum=0;
+            int counts=0;
+            if(temp->val==sums(temp,sum,counts))
             count++;
             if(temp->right){
                 q.push(temp->right);
