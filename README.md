@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/eshwarteja2316/LeetCode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshwarteja2316/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/eshwarteja2316/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/eshwarteja2316/LeetCode/tree/master/0283-move-zeroes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/eshwarteja2316/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/eshwarteja2316/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/eshwarteja2316/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/eshwarteja2316/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarteja2316/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/eshwarteja2316/LeetCode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/eshwarteja2316/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -317,10 +320,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/eshwarteja2316/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/eshwarteja2316/LeetCode/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/eshwarteja2316/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
