@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/eshwarteja2316/LeetCode/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/eshwarteja2316/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarteja2316/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1046-last-stone-weight](https://github.com/eshwarteja2316/LeetCode/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/eshwarteja2316/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eshwarteja2316/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/eshwarteja2316/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -309,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/eshwarteja2316/LeetCode/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/eshwarteja2316/LeetCode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
