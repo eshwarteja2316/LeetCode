@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/eshwarteja2316/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/eshwarteja2316/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1367-linked-list-in-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshwarteja2316/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -279,12 +280,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/eshwarteja2316/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/eshwarteja2316/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1367-linked-list-in-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshwarteja2316/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/eshwarteja2316/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Enumeration
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/eshwarteja2316/LeetCode/tree/master/0155-min-stack) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/eshwarteja2316/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -313,5 +317,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/eshwarteja2316/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/eshwarteja2316/LeetCode/tree/master/1046-last-stone-weight) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/eshwarteja2316/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
