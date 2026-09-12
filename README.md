@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eshwarteja2316/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1367-linked-list-in-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/eshwarteja2316/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/eshwarteja2316/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Recursion
 |  |
 | ------- |
