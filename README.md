@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/eshwarteja2316/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0636-exclusive-time-of-functions](https://github.com/eshwarteja2316/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/eshwarteja2316/LeetCode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/eshwarteja2316/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/eshwarteja2316/LeetCode/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/eshwarteja2316/LeetCode/tree/master/0835-image-overlap) |
 | [0905-sort-array-by-parity](https://github.com/eshwarteja2316/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/eshwarteja2316/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/eshwarteja2316/LeetCode/tree/master/0035-search-insert-position) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0704-binary-search](https://github.com/eshwarteja2316/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
