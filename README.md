@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/eshwarteja2316/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/eshwarteja2316/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/eshwarteja2316/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/eshwarteja2316/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshwarteja2316/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eshwarteja2316/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/eshwarteja2316/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/eshwarteja2316/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/eshwarteja2316/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/eshwarteja2316/LeetCode/tree/master/0069-sqrtx) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/eshwarteja2316/LeetCode/tree/master/0704-binary-search) |
@@ -376,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/eshwarteja2316/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
