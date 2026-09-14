@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/eshwarteja2316/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/eshwarteja2316/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/eshwarteja2316/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/eshwarteja2316/LeetCode/tree/master/0283-move-zeroes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/eshwarteja2316/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/eshwarteja2316/LeetCode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/eshwarteja2316/LeetCode/tree/master/0274-h-index) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/eshwarteja2316/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarteja2316/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/eshwarteja2316/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/eshwarteja2316/LeetCode/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eshwarteja2316/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/eshwarteja2316/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3467-transform-array-by-parity](https://github.com/eshwarteja2316/LeetCode/tree/master/3467-transform-array-by-parity) |
