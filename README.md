@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/eshwarteja2316/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/eshwarteja2316/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshwarteja2316/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0836-rectangle-overlap](https://github.com/eshwarteja2316/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eshwarteja2316/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/eshwarteja2316/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/eshwarteja2316/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -389,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/eshwarteja2316/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/eshwarteja2316/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
