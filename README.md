@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/eshwarteja2316/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/eshwarteja2316/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/eshwarteja2316/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/eshwarteja2316/LeetCode/tree/master/0383-ransom-note) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/eshwarteja2316/LeetCode/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eshwarteja2316/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/eshwarteja2316/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/eshwarteja2316/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/eshwarteja2316/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/eshwarteja2316/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/eshwarteja2316/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/eshwarteja2316/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/eshwarteja2316/LeetCode/tree/master/0567-permutation-in-string) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/eshwarteja2316/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/eshwarteja2316/LeetCode/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/eshwarteja2316/LeetCode/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eshwarteja2316/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/eshwarteja2316/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3467-transform-array-by-parity](https://github.com/eshwarteja2316/LeetCode/tree/master/3467-transform-array-by-parity) |
