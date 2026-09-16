@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/eshwarteja2316/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/eshwarteja2316/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/eshwarteja2316/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/eshwarteja2316/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/eshwarteja2316/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/eshwarteja2316/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/eshwarteja2316/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/eshwarteja2316/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/eshwarteja2316/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/eshwarteja2316/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/eshwarteja2316/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/eshwarteja2316/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/eshwarteja2316/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0566-reshape-the-matrix](https://github.com/eshwarteja2316/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/eshwarteja2316/LeetCode/tree/master/0835-image-overlap) |
 ## Database
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/eshwarteja2316/LeetCode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/eshwarteja2316/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/eshwarteja2316/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/eshwarteja2316/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
