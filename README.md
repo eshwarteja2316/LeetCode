@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/eshwarteja2316/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/eshwarteja2316/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/eshwarteja2316/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/eshwarteja2316/LeetCode/tree/master/0641-design-circular-deque) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eshwarteja2316/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1367-linked-list-in-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/eshwarteja2316/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/eshwarteja2316/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0622-design-circular-queue](https://github.com/eshwarteja2316/LeetCode/tree/master/0622-design-circular-queue) |
 | [0636-exclusive-time-of-functions](https://github.com/eshwarteja2316/LeetCode/tree/master/0636-exclusive-time-of-functions) |
+| [0641-design-circular-deque](https://github.com/eshwarteja2316/LeetCode/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/eshwarteja2316/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/eshwarteja2316/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/eshwarteja2316/LeetCode/tree/master/0739-daily-temperatures) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/eshwarteja2316/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/eshwarteja2316/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0622-design-circular-queue](https://github.com/eshwarteja2316/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/eshwarteja2316/LeetCode/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/eshwarteja2316/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -520,4 +523,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/eshwarteja2316/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/eshwarteja2316/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/eshwarteja2316/LeetCode/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
