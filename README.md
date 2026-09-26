@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eshwarteja2316/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/eshwarteja2316/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/eshwarteja2316/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/eshwarteja2316/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/eshwarteja2316/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/eshwarteja2316/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eshwarteja2316/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/eshwarteja2316/LeetCode/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eshwarteja2316/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/eshwarteja2316/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/eshwarteja2316/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/eshwarteja2316/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eshwarteja2316/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/eshwarteja2316/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/eshwarteja2316/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/eshwarteja2316/LeetCode/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/eshwarteja2316/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/eshwarteja2316/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/eshwarteja2316/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/eshwarteja2316/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/eshwarteja2316/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
