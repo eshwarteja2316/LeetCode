@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/eshwarteja2316/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/eshwarteja2316/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/eshwarteja2316/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/eshwarteja2316/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0636-exclusive-time-of-functions](https://github.com/eshwarteja2316/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/eshwarteja2316/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/eshwarteja2316/LeetCode/tree/master/0739-daily-temperatures) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/eshwarteja2316/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/eshwarteja2316/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eshwarteja2316/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/eshwarteja2316/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/eshwarteja2316/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1367-linked-list-in-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshwarteja2316/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/eshwarteja2316/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/eshwarteja2316/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eshwarteja2316/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/eshwarteja2316/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1367-linked-list-in-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshwarteja2316/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
