@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/eshwarteja2316/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/eshwarteja2316/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/eshwarteja2316/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/eshwarteja2316/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eshwarteja2316/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/eshwarteja2316/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3467-transform-array-by-parity](https://github.com/eshwarteja2316/LeetCode/tree/master/3467-transform-array-by-parity) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/eshwarteja2316/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/eshwarteja2316/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3833-count-dominant-indices](https://github.com/eshwarteja2316/LeetCode/tree/master/3833-count-dominant-indices) |
 ## Matrix
