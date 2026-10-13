@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/eshwarteja2316/LeetCode/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/eshwarteja2316/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eshwarteja2316/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/eshwarteja2316/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/eshwarteja2316/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/eshwarteja2316/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/eshwarteja2316/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/eshwarteja2316/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/eshwarteja2316/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarteja2316/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/eshwarteja2316/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/eshwarteja2316/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarteja2316/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eshwarteja2316/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/eshwarteja2316/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eshwarteja2316/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/eshwarteja2316/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eshwarteja2316/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/eshwarteja2316/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/eshwarteja2316/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/eshwarteja2316/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Divide and Conquer
 |  |
