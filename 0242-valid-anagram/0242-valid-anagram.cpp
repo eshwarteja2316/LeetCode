@@ -4,14 +4,14 @@ public:
         if (s.length() != t.length()) {
             return false;
         }
-        int freq[26]={0};
-
-        for (int i=0;i<s.length();i++) {
-            freq[s[i]-'a']++;
-            freq[t[i]-'a']--;
+        unordered_map<char, int> mp;
+        for (char c:s) {
+            mp[c]++;
         }
-        for (int i=0;i<26;i++) {
-            if (freq[i] != 0) {
+        for (char c:t) {
+            mp[c]--;
+
+            if (mp[c]<0) {
                 return false;
             }
         }
