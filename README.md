@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/eshwarteja2316/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/eshwarteja2316/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/eshwarteja2316/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/eshwarteja2316/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/eshwarteja2316/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/eshwarteja2316/LeetCode/tree/master/0054-spiral-matrix) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/eshwarteja2316/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/eshwarteja2316/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/eshwarteja2316/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/eshwarteja2316/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/eshwarteja2316/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/eshwarteja2316/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/eshwarteja2316/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/eshwarteja2316/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/eshwarteja2316/LeetCode/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/eshwarteja2316/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0566-reshape-the-matrix](https://github.com/eshwarteja2316/LeetCode/tree/master/0566-reshape-the-matrix) |
