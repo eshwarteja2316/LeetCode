@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/eshwarteja2316/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/eshwarteja2316/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1367-linked-list-in-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshwarteja2316/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/eshwarteja2316/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/eshwarteja2316/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1367-linked-list-in-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshwarteja2316/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/eshwarteja2316/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Enumeration
 |  |
