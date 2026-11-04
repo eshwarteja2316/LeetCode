@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/eshwarteja2316/LeetCode/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/eshwarteja2316/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/eshwarteja2316/LeetCode/tree/master/0733-flood-fill) |
 | [1367-linked-list-in-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/eshwarteja2316/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/eshwarteja2316/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/eshwarteja2316/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/eshwarteja2316/LeetCode/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -793,4 +795,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/eshwarteja2316/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/eshwarteja2316/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/eshwarteja2316/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
