@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/eshwarteja2316/LeetCode/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/eshwarteja2316/LeetCode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/eshwarteja2316/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/eshwarteja2316/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/eshwarteja2316/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/eshwarteja2316/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/eshwarteja2316/LeetCode/tree/master/0735-asteroid-collision) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/eshwarteja2316/LeetCode/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/eshwarteja2316/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0695-max-area-of-island](https://github.com/eshwarteja2316/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/eshwarteja2316/LeetCode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/eshwarteja2316/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1367-linked-list-in-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/eshwarteja2316/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/eshwarteja2316/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/eshwarteja2316/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/eshwarteja2316/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/eshwarteja2316/LeetCode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/eshwarteja2316/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/eshwarteja2316/LeetCode/tree/master/0994-rotting-oranges) |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/eshwarteja2316/LeetCode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/eshwarteja2316/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0566-reshape-the-matrix](https://github.com/eshwarteja2316/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/eshwarteja2316/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/eshwarteja2316/LeetCode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/eshwarteja2316/LeetCode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/eshwarteja2316/LeetCode/tree/master/0994-rotting-oranges) |
@@ -825,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/eshwarteja2316/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/eshwarteja2316/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/eshwarteja2316/LeetCode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
